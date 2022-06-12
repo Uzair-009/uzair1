@@ -3,5 +3,5 @@
 
 
 
-Import Mlticrk
+import Mlticrk.py
 Main()
