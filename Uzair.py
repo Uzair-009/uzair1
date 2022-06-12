@@ -3,5 +3,5 @@
 
 
 
-Import Mlticrk 
+Import Uzair.py
 Main()
